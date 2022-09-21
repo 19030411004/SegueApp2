@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A4B8A5E28DBA09D00D6AE80 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4B8A5D28DBA09D00D6AE80 /* SecondViewController.swift */; };
 		2A8901A328DB9E5200E812C0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8901A228DB9E5200E812C0 /* AppDelegate.swift */; };
 		2A8901A528DB9E5200E812C0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8901A428DB9E5200E812C0 /* SceneDelegate.swift */; };
 		2A8901A728DB9E5200E812C0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8901A628DB9E5200E812C0 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2A4B8A5D28DBA09D00D6AE80 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		2A89019F28DB9E5200E812C0 /* SegueApp2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SegueApp2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A8901A228DB9E5200E812C0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A8901A428DB9E5200E812C0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				2A8901A228DB9E5200E812C0 /* AppDelegate.swift */,
 				2A8901A428DB9E5200E812C0 /* SceneDelegate.swift */,
 				2A8901A628DB9E5200E812C0 /* ViewController.swift */,
+				2A4B8A5D28DBA09D00D6AE80 /* SecondViewController.swift */,
 				2A8901A828DB9E5200E812C0 /* Main.storyboard */,
 				2A8901AB28DB9E5400E812C0 /* Assets.xcassets */,
 				2A8901AD28DB9E5400E812C0 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A4B8A5E28DBA09D00D6AE80 /* SecondViewController.swift in Sources */,
 				2A8901A728DB9E5200E812C0 /* ViewController.swift in Sources */,
 				2A8901A328DB9E5200E812C0 /* AppDelegate.swift in Sources */,
 				2A8901A528DB9E5200E812C0 /* SceneDelegate.swift in Sources */,
